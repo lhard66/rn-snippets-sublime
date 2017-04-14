@@ -1,0 +1,7 @@
+<snippet>
+ <content><![CDATA[
+<View$1>$2</View>
+]]></content> 
+ <tabTrigger>view</tabTrigger>   
+ <scope>source.js</scope>
+</snippet>
